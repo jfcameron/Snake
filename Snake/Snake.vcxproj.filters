@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Point">
+      <UniqueIdentifier>{ef3dbc9f-cc48-414b-b6a4-a7cd391a5cf4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Player">
+      <UniqueIdentifier>{c24e86c5-a842-47b7-a77c-cc4df2ff9700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FunctionLibrary">
+      <UniqueIdentifier>{0f70a447-649f-4b02-925f-399028cdc589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Constants">
+      <UniqueIdentifier>{2abb88aa-29a0-4ff0-b90d-f179b23d9c83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Globals">
+      <UniqueIdentifier>{cec6e6e7-99a6-4062-be6c-4311f8d02a81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pickup">
+      <UniqueIdentifier>{93880899-d059-429a-8d62-a7fdf2b31a46}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Point\Point.c">
+      <Filter>Source Files\Point</Filter>
+    </ClCompile>
+    <ClCompile Include="Player\Player.c">
+      <Filter>Source Files\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionLibrary\FunctionLibrary.c">
+      <Filter>Source Files\FunctionLibrary</Filter>
+    </ClCompile>
+    <ClCompile Include="Constants\Constants.c">
+      <Filter>Source Files\Constants</Filter>
+    </ClCompile>
+    <ClCompile Include="Globals\Globals.c">
+      <Filter>Source Files\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="Pickup\Pickup.c">
+      <Filter>Source Files\Pickup</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point\Point.h">
+      <Filter>Source Files\Point</Filter>
+    </ClInclude>
+    <ClInclude Include="Player\Player.h">
+      <Filter>Source Files\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionLibrary\FunctionLibrary.h">
+      <Filter>Source Files\FunctionLibrary</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants\Constants.h">
+      <Filter>Source Files\Constants</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals\Globals.h">
+      <Filter>Source Files\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="Pickup\Pickup.h">
+      <Filter>Source Files\Pickup</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.txt" />
+    <None Include="ToDo.txt" />
+    <None Include="Data flow diagram.gdraw" />
+    <None Include="Object diagram.gdraw" />
+  </ItemGroup>
+</Project>
