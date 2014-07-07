@@ -74,7 +74,7 @@
   <ItemGroup>
     <None Include="..\Data flow diagram.gdraw" />
     <None Include="..\Object diagram.gdraw" />
-    <None Include="..\README" />
-    <None Include="..\TODO" />
+    <None Include="..\README.md" />
+    <None Include="..\TODO.md" />
   </ItemGroup>
 </Project>
