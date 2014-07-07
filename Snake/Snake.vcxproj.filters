@@ -72,9 +72,9 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Readme.txt" />
-    <None Include="ToDo.txt" />
-    <None Include="Data flow diagram.gdraw" />
-    <None Include="Object diagram.gdraw" />
+    <None Include="..\Data flow diagram.gdraw" />
+    <None Include="..\Object diagram.gdraw" />
+    <None Include="..\Readme.txt" />
+    <None Include="..\ToDo.txt" />
   </ItemGroup>
 </Project>
