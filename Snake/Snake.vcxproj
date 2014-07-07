@@ -94,8 +94,8 @@
   <ItemGroup>
     <None Include="..\Data flow diagram.gdraw" />
     <None Include="..\Object diagram.gdraw" />
-    <None Include="..\Readme.txt" />
-    <None Include="..\ToDo.txt" />
+    <None Include="..\Readme" />
+    <None Include="..\Todo" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
