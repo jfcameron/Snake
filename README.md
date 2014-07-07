@@ -1,4 +1,4 @@
-Snake - A simple game of snake written for the windows console in C.
+Snake - A simple game of snake written in C for the Windows console.
 
 [Object diagram](https://docs.google.com/drawings/d/1YVa1dPlSctYNb_eAmf8KTN4Y0q-LRdKLWnC4FU0__a0/edit?usp=sharing)
 
