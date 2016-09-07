@@ -5,6 +5,6 @@ Snake written in ANSI C for the Windows console.
 
 example game: [Win32 build](https://dl.dropboxusercontent.com/u/102655232/Github/Snake/Win32_build.7z) 
 
-[Object diagram](https://docs.google.com/drawings/d/1YVa1dPlSctYNb_eAmf8KTN4Y0q-LRdKLWnC4FU0__a0/edit?usp=sharing)
+![alt tag](https://dl.dropboxusercontent.com/u/102655232/Github/Snake/Object%20diagram.png "Object diagram")
 
-[Data flow diagram](https://docs.google.com/drawings/d/1BBT02X9-cvda6J0j2K3ETws7YCRfTbXRC7fifd7sDX8/edit?usp=sharing)
+![alt tag](https://dl.dropboxusercontent.com/u/102655232/Github/Snake/Data%20flow%20diagram.png "Data flow diagram")
