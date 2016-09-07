@@ -1,4 +1,8 @@
-Snake - a simple game of Snake written in C for the Windows console.
+# Snake 
+Snake written in ANSI C for the Windows console.
+
+![alt tag](https://dl.dropboxusercontent.com/u/102655232/Github/WebGLGameEngine/Build_Image.png "")
+example game: [live demo](http://jfcameron.github.io/Articles/WebGLGameEngine/content.html) 
 
 [Object diagram](https://docs.google.com/drawings/d/1YVa1dPlSctYNb_eAmf8KTN4Y0q-LRdKLWnC4FU0__a0/edit?usp=sharing)
 
