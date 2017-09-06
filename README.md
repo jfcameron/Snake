@@ -2,6 +2,10 @@
 ![alt tag](http://jfcameron.github.io/Images/Snake_Intro/Small.png "")
 
 ## Description
+![asdf](https://img.shields.io/badge/development%20status-closed-lightgrey.svg)
+![asdf](https://img.shields.io/badge/platforms-win32-lightgrey.svg)
+![asdf](https://img.shields.io/badge/license-unlicense-green.svg)
+
 Snake written in ANSI C for the Windows console.
 
 ## Diagrams
