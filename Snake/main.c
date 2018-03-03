@@ -302,8 +302,8 @@ void end()
         gotoxy(11, 3);printf("  You just played SNAKE, the critically acclaimed    ");
         gotoxy(11, 4);printf("  game designed for the home PC.                     ");
         gotoxy(11, 5);printf("                                                     ");
-        gotoxy(11, 6);printf("  If you stole this game, you should kill yourself   ");
-        gotoxy(11, 7);printf("  immediately. You wouldn't steal a car would you?   ");
+        gotoxy(11, 6);printf("                                                     ");
+        gotoxy(11, 7);printf("                                                     ");
         gotoxy(11, 8);printf("                                                     ");
         gotoxy(11, 9);printf("  I hope you enjoyed playing this cutting edge game. ");
         gotoxy(11,10);printf("  I fully expect it to spawn 100s of sequels,        ");
